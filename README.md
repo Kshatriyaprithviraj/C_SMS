@@ -4,7 +4,7 @@
   Arrays, structures.
 
 # Functions used:
-#####start()
+start()
 CheckDate()
 AddRecords()
 ModifyRecords()
