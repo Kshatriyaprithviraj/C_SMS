@@ -4,14 +4,14 @@
   Arrays, structures.
 
 # Functions used:
-start(),
-CheckDate(),
-AddRecords(),
-ModifyRecords(),
-SearchRecords(),
-DeleteRecords(),
-fee(),
-salary(),
+start()__
+CheckDate()__
+AddRecords()__
+ModifyRecords()__
+SearchRecords()__
+DeleteRecords()__
+fee()__
+salary()__
 ext()
 
 # Screenshots:
