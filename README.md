@@ -1,19 +1,16 @@
-# my_repository
-
+# School billing system
 # Data structures Used:
-  Arrays, structures.
-
+  Arrays <br /> Structures. <br />
 # Functions used:
 start() <br />
-CheckDate()__
-AddRecords()__
-ModifyRecords()__
-SearchRecords()__
-DeleteRecords()__
-fee()
-salary()
-ext()
-
+CheckDate()<br />
+AddRecords()<br />
+ModifyRecords()<br />
+SearchRecords()<br />
+DeleteRecords()<br />
+fee()<br />
+salary()<br />
+ext()<br />
 # Screenshots:
 
 [
@@ -23,5 +20,3 @@ ext()
 ![Screenshot 2](https://user-images.githubusercontent.com/50717968/67703621-bddb5c00-f9d9-11e9-8449-e4a8da971e55.png)
 
 ![Screenshot 3](https://user-images.githubusercontent.com/50717968/67703635-c764c400-f9d9-11e9-9bd5-fb0a14e9e32d.png)
-
-
